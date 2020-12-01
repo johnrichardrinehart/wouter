@@ -54,6 +54,11 @@
   "peerDependencies": {
     "react": ">=16.8.0"
   },
+  "peerDependenciesMeta": {
+    "react": {
+       "optional": true
+    } 
+  },
   "repository": "molefrog/wouter",
   "size-limit": [
     {
